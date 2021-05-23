@@ -1,0 +1,15 @@
+
+
+.search-bar a,
+.nav a{
+    text-decoration: none;
+}
+
+.item-container p{
+    line-height: 19px;
+}
+
+.item-container img{
+    width:50px;
+    height:60px;
+}

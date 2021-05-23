@@ -1,0 +1,228 @@
+{
+    "country": "IT",
+    "type": "Person",
+    "gender": "Female",
+    "end-area": null,
+    "recordings": [
+        {
+            "disambiguation": "",
+            "title": "A cuore spento",
+            "id": "35181a18-00eb-4a1c-9f13-7a8b1201e1c2",
+            "length": 175000,
+            "video": false
+        },
+        {
+            "video": false,
+            "length": 222000,
+            "id": "2b401c18-6d0b-4e44-b0b8-74cd7a20de3d",
+            "title": "A modo mio amo",
+            "disambiguation": ""
+        },
+        {
+            "id": "ed797067-4bd8-41bd-9b30-e5a51c57ba00",
+            "length": 192096,
+            "video": false,
+            "disambiguation": "",
+            "title": "A te cosa piace fare"
+        },
+        {
+            "id": "fd7ef0ee-8629-4cb5-9f2b-26f0bba1113b",
+            "video": false,
+            "length": 238000,
+            "disambiguation": "",
+            "title": "Alice e il blu"
+        },
+        {
+            "length": 180053,
+            "video": false,
+            "id": "449ee834-adb2-4c89-ac79-165910f045db",
+            "title": "America",
+            "disambiguation": ""
+        },
+        {
+            "video": false,
+            "length": 196846,
+            "id": "e7a083ef-1d25-4aee-b57c-ac473ae3c41d",
+            "title": "Ancora un'altra volta",
+            "disambiguation": ""
+        },
+        {
+            "title": "Avocado Toast",
+            "disambiguation": "",
+            "video": false,
+            "length": 143099,
+            "id": "ef73761a-3216-449a-ada9-5daa004d05ee"
+        },
+        {
+            "title": "Avocado Toast (Acoustic Version)",
+            "disambiguation": "",
+            "length": 167142,
+            "video": false,
+            "id": "2291330b-c827-4e55-9aaf-e89c17f77a4d"
+        },
+        {
+            "video": false,
+            "length": 177000,
+            "id": "a1712348-753c-48fa-beda-5561e248e599",
+            "title": "Bianco nero e grigio",
+            "disambiguation": ""
+        },
+        {
+            "id": "d833a75c-cbe2-4227-bb19-abfcd24f18e5",
+            "length": 210000,
+            "video": false,
+            "disambiguation": "",
+            "title": "Bolle"
+        },
+        {
+            "id": "65a2673b-b09a-4c2e-bd79-10cb1d62ad77",
+            "length": 186285,
+            "video": false,
+            "disambiguation": "",
+            "title": "Bonsai"
+        },
+        {
+            "disambiguation": "",
+            "title": "Brividi",
+            "id": "34486622-7c8a-4458-98a4-09dd9da003c0",
+            "length": 219000,
+            "video": false
+        },
+        {
+            "title": "Bye Bye",
+            "disambiguation": "",
+            "video": false,
+            "length": 176000,
+            "id": "2bc15c32-70e9-43c6-989b-52e62e6e874a"
+        },
+        {
+            "title": "Bye Bye (Two Fingerz extended Rmx)",
+            "disambiguation": "",
+            "video": false,
+            "length": 227000,
+            "id": "02adec63-7594-4c72-8370-de0aec99418f"
+        },
+        {
+            "disambiguation": "",
+            "title": "Bye Bye (Two Fingerz radio edit Rmx)",
+            "id": "2c89bece-4033-46a4-9a97-6f88726ff426",
+            "length": 177000,
+            "video": false
+        },
+        {
+            "title": "Cado giù",
+            "disambiguation": "",
+            "length": 215000,
+            "video": false,
+            "id": "b69368d6-5396-4667-9b86-3427a9cdaf4a"
+        },
+        {
+            "video": false,
+            "length": 231541,
+            "id": "b4b64fbe-d2ec-4514-83fb-f40e9f34d5f8",
+            "title": "Capirai",
+            "disambiguation": ""
+        },
+        {
+            "title": "Cena di Natale",
+            "disambiguation": "",
+            "length": 211188,
+            "video": false,
+            "id": "47f124f7-630d-4177-b1ee-28ecadd07c24"
+        },
+        {
+            "disambiguation": "",
+            "title": "Coltiverò l'amore",
+            "id": "72a3ae2f-318f-4a59-aa26-ac71868ff672",
+            "length": 229000,
+            "video": false
+        },
+        {
+            "id": "fdf9a73b-32d3-4a46-87b0-555739267a9b",
+            "length": 179657,
+            "video": false,
+            "disambiguation": "",
+            "title": "D’oro"
+        },
+        {
+            "title": "Diamante lei e luce lui",
+            "disambiguation": "",
+            "length": 210986,
+            "video": false,
+            "id": "97fd7dfb-bf88-4c6d-9837-eb2064f56b3a"
+        },
+        {
+            "id": "3a57431e-97f4-45f3-8a49-38a91b4e403a",
+            "video": false,
+            "length": 209000,
+            "disambiguation": "",
+            "title": "Diamante lei e luce lui"
+        },
+        {
+            "disambiguation": "",
+            "title": "Diamante lei e luce lui (unplugged)",
+            "id": "6ce5e6ac-2f22-4e84-934b-b2b2c99eb308",
+            "length": 210000,
+            "video": false
+        },
+        {
+            "id": "8be11268-fd6b-49de-bd12-b0fd478ceb16",
+            "length": 199000,
+            "video": false,
+            "disambiguation": "",
+            "title": "Dieci"
+        },
+        {
+            "id": "852f0144-f10b-428a-a2a9-cc13a697ba67",
+            "length": 192000,
+            "video": false,
+            "disambiguation": "",
+            "title": "Dimenticare (mai)"
+        }
+    ],
+    "disambiguation": "Italian singer-songwriter, Annalisa Scarrone",
+    "ipis": [
+        "00452379249"
+    ],
+    "begin_area": {
+        "type": null,
+        "disambiguation": "",
+        "name": "Savona",
+        "id": "0dfe094c-8824-4662-8f40-f5a5a5b351f9",
+        "sort-name": "Savona",
+        "type-id": null
+    },
+    "area": {
+        "type": null,
+        "disambiguation": "",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type-id": null,
+        "iso-3166-1-codes": [
+            "IT"
+        ]
+    },
+    "isnis": [
+        "0000000372696740"
+    ],
+    "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+    "end_area": null,
+    "name": "Annalisa",
+    "sort-name": "Annalisa",
+    "id": "d60d4edc-1b8f-48be-8eeb-2ada05e45c54",
+    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+    "begin-area": {
+        "type": null,
+        "disambiguation": "",
+        "name": "Savona",
+        "id": "0dfe094c-8824-4662-8f40-f5a5a5b351f9",
+        "sort-name": "Savona",
+        "type-id": null
+    },
+    "life-span": {
+        "begin": "1985-08-05",
+        "ended": false,
+        "end": null
+    }
+}
